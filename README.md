@@ -1,4 +1,6 @@
-gg
+1) Please be sure to run php artisan config:cache or php artisan config:clear
+2) Database Name is  pizza_order_system
+3) Finally run php artisan migrate:fresh --seed 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
